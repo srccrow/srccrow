@@ -20,6 +20,6 @@
 ⠀⠀⠀⢠⣴⣿⣿⣿⣿⣿⣦⣭⣷⣶⣿⣿⡿⠿⠟⠋⠁⠉⠛⠛⠿⠋⠁カービィカービィ
 カービィカービィカービィカービィカービィカービィカービィカービィカービィカービィカービィカービィカービィ
 ```
-![:name](https://count.getloli.com/get/@:srccrow)
+![name](https://count.getloli.com/get/@:srccrow)
 ###
-[![stats](https://github-readme-stats.vercel.app/api?username=srccrow)](https://github.com/anuraghazra/github-readme-stats)
+![stats](https://github-readme-stats.vercel.app/api?username=srccrow&theme=vue&show_icons=true)
